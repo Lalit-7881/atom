@@ -1,0 +1,24 @@
+.firstDiv{
+  color:Blue;
+}
+.secondDiv{
+  color:Red;
+}
+
+#singleout{
+  color:Green;
+  text-decoration:line-through;
+
+}
+
+h3 +  ul{
+  border: 4px dotted green;
+}
+
+li a{
+  color: red;
+}
+li a[href="www.npr.org"]{
+  color:blue;
+  border: 5px solid gray;
+}

@@ -1,0 +1,22 @@
+h1{
+  font-family: "times in new roman";
+}
+
+p{
+  font-family: monospace;
+}
+
+body{
+  font-size: 10px
+}
+
+#two{
+  font-size: 1.0em;
+}
+p{
+  font-style: italic;
+  font-weight: bold;
+}
+h1{
+  text-align: center;
+}

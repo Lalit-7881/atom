@@ -1,0 +1,29 @@
+h1{
+  text-align: center;
+  font-family: 'times in new roman';
+}
+.art{
+  margin: auto;
+}
+
+td{
+  background-color: black;
+  height:300px;
+  width:6000px;
+  border:6px solid white;
+}
+#one{
+  background-color:#DAD3D8;
+}
+#two{
+  background-color:#C3423F;
+}
+#three{
+  background-color:#EC9A29;
+}
+#four{
+  background-color:#A8201A;
+}
+#five{
+  background-color:#FDE74C;
+}

@@ -1,0 +1,18 @@
+body{
+  background-color: pruple;
+}
+
+div{
+  background-color: green;
+  border-color:  black;
+  border-width: 2px;
+  border-style: dashed;
+}
+p{
+  color: yellow;
+}
+
+span{
+  background : red;
+  color: white;
+}
